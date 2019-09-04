@@ -1,0 +1,1 @@
+var elmnt = document.getElementsByClassName(".chat-body");
